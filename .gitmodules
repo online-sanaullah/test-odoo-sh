@@ -1,0 +1,4 @@
+[submodule "oae/accounting"]
+	path = oae/accounting
+	url = ssh://git@git.smartway-jo.com:1022/xcloud/apps-enh/accounting.git
+	branch = 11.0
